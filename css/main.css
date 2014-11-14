@@ -1,7 +1,28 @@
+h1 {
+	width: 100%;
+	padding: 0.4em;
+	position: fixed;
+	text-align: center;
+	margin: 0;
+	top: 0;
+	background-color: #8AE65C;
+	color: white;
+}
+
 body {
 	font-family: Helvetica, sans-serif;
 	font-size: 18px;
+	margin: 0;
 }
+
+#content {
+	margin: 8px;
+}
+
 img {
+	margin-top: 75px;
 	max-width: 600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
